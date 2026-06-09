@@ -1,0 +1,6 @@
+{
+  "name": "Brain Dump Caption Formatter",
+  "description": "Structure chaotic paragraphs of ideas into clear Hook, Value, and CTA captions with customized templates and tones.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
